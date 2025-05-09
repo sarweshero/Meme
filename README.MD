@@ -312,17 +312,11 @@ The project uses CSS Modules for component styling, with a design system defined
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
-- **Project Maintainer**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Username](https://github.com/yourusername)
+- **Project Maintainer**: Sarwesh, Sarika
+- **Email**: sarweshero@gmail.com
+- **GitHub**: [sarweshero](https://github.com/sarweshero)
 - **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/meme-generator/issues)
 
 For support or to report bugs, please open an issue on the GitHub repository.
